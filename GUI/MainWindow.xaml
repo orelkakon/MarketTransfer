@@ -1,0 +1,42 @@
+﻿<Window x:Class="GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        
+        mc:Ignorable="d"
+        Title="MainWindow" Height="558" Width="1316" Background="LightBlue">
+    <Grid Margin="0,4,0,-21">
+        <Button x:Name="Buy" Content="Buy" HorizontalAlignment="Left" VerticalAlignment="Top" Width="127" Margin="621,181,0,0" Height="36" FontSize="26" Click="ButtonBuy_Click"/>
+        <Button x:Name="Cancelall" Content="Cancel all request's" HorizontalAlignment="right" VerticalAlignment="Top" Width="226" Margin="0,409,598,0" Height="39" FontSize="25" Click="ButtonAllCancel_Click" />
+        <Button x:Name="Sell" Content="Sell" HorizontalAlignment="Left" VerticalAlignment="Top" Width="127" Margin="427,182,0,0" Height="35" FontSize="25" Click="ButtonSell_Click"/>
+        <Button x:Name="Cancel" Content="Cancel" HorizontalAlignment="Left" VerticalAlignment="Top" Width="127" Margin="640,353,0,0" Height="36" FontSize="25" Click="ButtonCancel_Click"/>
+        <Label Content="Commodity id" HorizontalAlignment="Left" Height="30" Margin="427,23,0,0" VerticalAlignment="Top" Width="106" FontSize="15"/>
+        <Label Content="Amount" HorizontalAlignment="Left" Height="30" Margin="427,70,0,0" VerticalAlignment="Top" Width="106" FontSize="15"/>
+        <Label Content="Price" HorizontalAlignment="Left" Height="30" Margin="427,121,0,0" VerticalAlignment="Top" Width="106" FontSize="15"/>
+        <TextBox x:Name="commodity" HorizontalAlignment="Left" Height="30" Margin="538,23,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="136" PreviewTextInput="NumberValidationTextBox"/>
+        <TextBox x:Name="price" HorizontalAlignment="Left" Height="30" Margin="538,121,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="136" PreviewTextInput="NumberValidationTextBox"/>
+        <TextBox x:Name="amount" HorizontalAlignment="Left" Height="30" Margin="538,70,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="136" PreviewTextInput="NumberValidationTextBox"/>
+        <Label Content="Request id" HorizontalAlignment="Left" Height="30" Margin="427,299,0,0" VerticalAlignment="Top" Width="106" FontSize="15"/>
+        <TextBox x:Name="requestId" HorizontalAlignment="Left" Height="30" Margin="538,299,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="136" PreviewTextInput="NumberValidationTextBox"/>
+        <Button x:Name="SBr" Content="Know about Sell/Buy request" HorizontalAlignment="Left" VerticalAlignment="Top" Width="230" Margin="386,353,0,0" Height="36" FontSize="17" Click="ButtonBSrequest_Click"/>
+        <Label Content="Commodity id" HorizontalAlignment="Left" Height="30" Margin="44,23,0,0" VerticalAlignment="Top" Width="106" FontSize="15"/>
+        <TextBox x:Name="commodityid" HorizontalAlignment="Left" Height="30" Margin="155,23,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="136" PreviewTextInput="NumberValidationTextBox"/>
+        <Button x:Name="Coffer" Content="Know about an Item " HorizontalAlignment="Left" VerticalAlignment="Top" Width="247" Margin="44,97,0,0" Height="36" FontSize="20" Click="ButtonCoffer_Click" />
+        <Button x:Name="AllCoffer"  Content="All market commodities offers " HorizontalAlignment="Left" VerticalAlignment="Top" Width="288" Margin="33,182,0,0" Height="36" FontSize="20" Click="ButtonAllCoffer_Click"/>
+        <Button x:Name="MState" Content="My Market State " HorizontalAlignment="Left" VerticalAlignment="Top" Width="155" Margin="33,287,0,0" Height="65" FontSize="20" Click="ButtonMState_Click"/>
+        <Button x:Name="MyReq" Content="My Requests " HorizontalAlignment="Left" VerticalAlignment="Top" Width="155" Margin="33,369,0,0" Height="64" FontSize="20" Click="ButtonMyReq_Click"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="234" Margin="10,10,0,0" VerticalAlignment="Top" Width="333"/>
+        <Border BorderBrush="Gray" BorderThickness="1" HorizontalAlignment="Left" Height="234" Margin="415,10,0,0" VerticalAlignment="Top" Width="352"/>
+        <Border BorderBrush="Brown" BorderThickness="1" HorizontalAlignment="Left" Height="183" Margin="10,265,0,0" VerticalAlignment="Top" Width="206"/>
+        <DataGrid Name="Table" HorizontalAlignment="Left" Height="352" Margin="832,53,0,0" VerticalAlignment="Top" Width="450" ItemsSource="{Binding History, UpdateSourceTrigger=PropertyChanged}" IsReadOnly="true" />
+        <Border BorderBrush="Blue" BorderThickness="1" HorizontalAlignment="Left" Height="214" Margin="370,265,0,0" VerticalAlignment="Top" Width="425" RenderTransformOrigin="0.504,0.425"/>
+        <Button x:Name="CreateReport"  Content="Create Report" HorizontalAlignment="Left" Margin="832,437,0,0" VerticalAlignment="Top" Width="190" Height="42" FontSize="25" Background="DimGray" Click="ButtonCreateReport_Click"/>
+        <Button x:Name="Graph" Content="See Statistics" HorizontalAlignment="Left" Margin="1092,437,0,0" VerticalAlignment="Top" Width="190" Height="42"  FontSize="25" Background="DimGray" Click="Graph_Click"/>
+        <Button x:Name="Exit" Content="Quit" HorizontalAlignment="Left" VerticalAlignment="Top" Width="89" Margin="10,470,0,0" Height="39" FontSize="25" Background="Red"  Click="Exit_Click"/>
+        <Label Content="History Of Market  " HorizontalAlignment="Left" Height="38" Margin="951,10,0,0" VerticalAlignment="Top" FontSize="20" Width="200"/>
+
+    </Grid>
+</Window>
+
+        

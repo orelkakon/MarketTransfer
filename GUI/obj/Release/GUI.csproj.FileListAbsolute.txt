@@ -1,0 +1,28 @@
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Release\GUI.exe.config
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Release\GUI.exe
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Release\GUI.pdb
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Release\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Release\log4net.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Release\nunit.framework.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Release\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Release\Newtonsoft.Json.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Release\Bussiness Layer.pdb
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Release\Bussiness Layer.exe.config
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Release\log4net.xml
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Release\nunit.framework.xml
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Release\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Release\Data Access Layer.exe.config
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Release\GUI.csprojResolveAssemblyReference.cache
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Release\MainWindow.g.cs
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Release\Window2.g.cs
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Release\App.g.cs
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Release\GUI_MarkupCompile.cache
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Release\GUI_MarkupCompile.lref
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Release\MainWindow.baml
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Release\Window2.baml
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Release\GUI.g.resources
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Release\GUI.Properties.Resources.resources
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Release\GUI.csproj.GenerateResource.Cache
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Release\GUI.exe
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Release\GUI.pdb

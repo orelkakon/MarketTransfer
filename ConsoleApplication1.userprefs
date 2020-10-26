@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{6E0E4CCD-971E-4712-A19A-9FB01FB876CD}|Default">
+  <MonoDevelop.Ide.ItemProperties.Presentation_220Layer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnitTestProject/UnitTest1.cs">
+    <Files>
+      <File FileName="Bussiness Layer/DecisionAlgorithm.cs" Line="52" Column="25" />
+      <File FileName="Bussiness Layer/BuyRequest.cs" Line="50" Column="14" />
+      <File FileName="Bussiness Layer/QueryMarket.cs" Line="1" Column="1" />
+      <File FileName="Bussiness Layer/MarketItemQuery.cs" Line="18" Column="33" />
+      <File FileName="ConsoleApplication1/Start.cs" Line="74" Column="17" />
+      <File FileName="Bussiness Layer/MarketUserRequests.cs" Line="42" Column="6" />
+      <File FileName="Bussiness Layer/CancelBuySellRequest.cs" Line="39" Column="1" />
+      <File FileName="Bussiness Layer/MarketCommodityOffer.cs" Line="24" Column="36" />
+      <File FileName="Bussiness Layer/MarketUserData.cs" Line="24" Column="29" />
+      <File FileName="UnitTestProject/UnitTest1.cs" Line="72" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

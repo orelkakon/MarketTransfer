@@ -1,0 +1,358 @@
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\bin\Debug\GUI.exe.config
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\bin\Debug\GUI.exe
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\bin\Debug\GUI.pdb
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\obj\Debug\App.g.cs
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\obj\Debug\MainWindow.baml
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\obj\Debug\GUI.g.resources
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\obj\Debug\GUI.exe
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\obj\Debug\GUI.pdb
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\obj\Debug\Window2.g.cs
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\obj\Debug\Window2.baml
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\bin\Debug\Bussiness Layer.exe
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\bin\Debug\Data Access Layer.exe
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\bin\Debug\Bussiness Layer.pdb
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\bin\Debug\Bussiness Layer.exe.config
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\bin\Debug\Data Access Layer.pdb
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\bin\Debug\Data Access Layer.exe.config
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\bin\Debug\log4net.dll
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\bin\Debug\nunit.framework.dll
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\bin\Debug\log4net.xml
+C:\Users\Nati\Desktop\ConsoleApplication1\GUI\bin\Debug\nunit.framework.xml
+C:\Users\orel kakon\Desktop\16517\GUI\bin\Debug\GUI.exe.config
+C:\Users\orel kakon\Desktop\16517\GUI\bin\Debug\GUI.exe
+C:\Users\orel kakon\Desktop\16517\GUI\bin\Debug\GUI.pdb
+C:\Users\orel kakon\Desktop\16517\GUI\bin\Debug\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\16517\GUI\bin\Debug\log4net.dll
+C:\Users\orel kakon\Desktop\16517\GUI\bin\Debug\nunit.framework.dll
+C:\Users\orel kakon\Desktop\16517\GUI\bin\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\16517\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orel kakon\Desktop\16517\GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\orel kakon\Desktop\16517\GUI\bin\Debug\Bussiness Layer.pdb
+C:\Users\orel kakon\Desktop\16517\GUI\bin\Debug\Bussiness Layer.exe.config
+C:\Users\orel kakon\Desktop\16517\GUI\bin\Debug\log4net.xml
+C:\Users\orel kakon\Desktop\16517\GUI\bin\Debug\nunit.framework.xml
+C:\Users\orel kakon\Desktop\16517\GUI\bin\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\16517\GUI\bin\Debug\Data Access Layer.exe.config
+C:\Users\orel kakon\Desktop\16517\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\orel kakon\Desktop\16517\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\orel kakon\Desktop\16517\GUI\obj\Debug\Window2.g.cs
+C:\Users\orel kakon\Desktop\16517\GUI\obj\Debug\App.g.cs
+C:\Users\orel kakon\Desktop\16517\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\orel kakon\Desktop\16517\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\orel kakon\Desktop\16517\GUI\obj\Debug\MainWindow.baml
+C:\Users\orel kakon\Desktop\16517\GUI\obj\Debug\Window2.baml
+C:\Users\orel kakon\Desktop\16517\GUI\obj\Debug\GUI.g.resources
+C:\Users\orel kakon\Desktop\16517\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\orel kakon\Desktop\16517\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\orel kakon\Desktop\16517\GUI\obj\Debug\GUI.exe
+C:\Users\orel kakon\Desktop\16517\GUI\obj\Debug\GUI.pdb
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\obj\Debug\Window2.g.cs
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\obj\Debug\App.g.cs
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\orel kakon\Desktop\77\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\orel kakon\Desktop\77\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\orel kakon\Desktop\77\GUI\obj\Debug\Window2.g.cs
+C:\Users\orel kakon\Desktop\77\GUI\obj\Debug\App.g.cs
+C:\Users\orel kakon\Desktop\77\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\orel kakon\Desktop\77\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\orel kakon\Desktop\77\GUI\bin\Debug\GUI.exe.config
+C:\Users\orel kakon\Desktop\77\GUI\bin\Debug\GUI.exe
+C:\Users\orel kakon\Desktop\77\GUI\bin\Debug\GUI.pdb
+C:\Users\orel kakon\Desktop\77\GUI\bin\Debug\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\77\GUI\bin\Debug\log4net.dll
+C:\Users\orel kakon\Desktop\77\GUI\bin\Debug\nunit.framework.dll
+C:\Users\orel kakon\Desktop\77\GUI\bin\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\77\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orel kakon\Desktop\77\GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\orel kakon\Desktop\77\GUI\bin\Debug\Bussiness Layer.pdb
+C:\Users\orel kakon\Desktop\77\GUI\bin\Debug\Bussiness Layer.exe.config
+C:\Users\orel kakon\Desktop\77\GUI\bin\Debug\log4net.xml
+C:\Users\orel kakon\Desktop\77\GUI\bin\Debug\nunit.framework.xml
+C:\Users\orel kakon\Desktop\77\GUI\bin\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\77\GUI\bin\Debug\Data Access Layer.exe.config
+C:\Users\orel kakon\Desktop\77\GUI\obj\Debug\MainWindow.baml
+C:\Users\orel kakon\Desktop\77\GUI\obj\Debug\Window2.baml
+C:\Users\orel kakon\Desktop\77\GUI\obj\Debug\GUI.g.resources
+C:\Users\orel kakon\Desktop\77\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\orel kakon\Desktop\77\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\orel kakon\Desktop\77\GUI\obj\Debug\GUI.exe
+C:\Users\orel kakon\Desktop\77\GUI\obj\Debug\GUI.pdb
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Debug\MainWindow.baml
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Debug\Tester.baml
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Debug\Tester.g.cs
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Debug\Window1.g.cs
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Debug\Window2.g.cs
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Debug\App.g.cs
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\GUI.exe.config
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\GUI.exe
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\GUI.pdb
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\AjaxControlToolkit.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\log4net.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\nunit.framework.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\WPFToolkit.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\itextsharp.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\Bussiness Layer.pdb
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\Bussiness Layer.exe.config
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\log4net.xml
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\nunit.framework.xml
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\WPFToolkit.pdb
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\Data Access Layer.exe.config
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\itextsharp.xml
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Debug\Window1.baml
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Debug\Window2.baml
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Debug\GUI.g.resources
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Debug\GUI.exe
+C:\Users\orel kakon\Desktop\NEW\GUI\obj\Debug\GUI.pdb
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\GUI.exe.config
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\GUI.exe
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\GUI.pdb
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\AjaxControlToolkit.dll
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\log4net.dll
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\nunit.framework.dll
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\WPFToolkit.dll
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\itextsharp.dll
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\Bussiness Layer.pdb
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\Bussiness Layer.exe.config
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\Data Access Layer.exe.config
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\log4net.xml
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\nunit.framework.xml
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\WPFToolkit.pdb
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\itextsharp.xml
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\גיבוי\GUI\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\גיבוי\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\orel kakon\Desktop\גיבוי\GUI\obj\Debug\MainWindow.baml
+C:\Users\orel kakon\Desktop\גיבוי\GUI\obj\Debug\Tester.baml
+C:\Users\orel kakon\Desktop\גיבוי\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\orel kakon\Desktop\גיבוי\GUI\obj\Debug\Tester.g.cs
+C:\Users\orel kakon\Desktop\גיבוי\GUI\obj\Debug\Window2.g.cs
+C:\Users\orel kakon\Desktop\גיבוי\GUI\obj\Debug\App.g.cs
+C:\Users\orel kakon\Desktop\גיבוי\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\orel kakon\Desktop\גיבוי\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\orel kakon\Desktop\גיבוי\GUI\obj\Debug\Window2.baml
+C:\Users\orel kakon\Desktop\גיבוי\GUI\obj\Debug\GUI.g.resources
+C:\Users\orel kakon\Desktop\גיבוי\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\orel kakon\Desktop\גיבוי\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\orel kakon\Desktop\גיבוי\GUI\obj\Debug\GUI.exe
+C:\Users\orel kakon\Desktop\גיבוי\GUI\obj\Debug\GUI.pdb
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\GUI.exe.config
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\GUI.exe
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\GUI.pdb
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\AjaxControlToolkit.dll
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\log4net.dll
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\nunit.framework.dll
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\WPFToolkit.dll
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\itextsharp.dll
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\Bussiness Layer.pdb
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\Bussiness Layer.exe.config
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\Data Access Layer.exe.config
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\log4net.xml
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\nunit.framework.xml
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\WPFToolkit.pdb
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\itextsharp.xml
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\מקור\GUI\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\מקור\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\orel kakon\Desktop\מקור\GUI\obj\Debug\MainWindow.baml
+C:\Users\orel kakon\Desktop\מקור\GUI\obj\Debug\Tester.baml
+C:\Users\orel kakon\Desktop\מקור\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\orel kakon\Desktop\מקור\GUI\obj\Debug\Tester.g.cs
+C:\Users\orel kakon\Desktop\מקור\GUI\obj\Debug\Window2.g.cs
+C:\Users\orel kakon\Desktop\מקור\GUI\obj\Debug\App.g.cs
+C:\Users\orel kakon\Desktop\מקור\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\orel kakon\Desktop\מקור\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\orel kakon\Desktop\מקור\GUI\obj\Debug\Window2.baml
+C:\Users\orel kakon\Desktop\מקור\GUI\obj\Debug\GUI.g.resources
+C:\Users\orel kakon\Desktop\מקור\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\orel kakon\Desktop\מקור\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\orel kakon\Desktop\מקור\GUI\obj\Debug\GUI.exe
+C:\Users\orel kakon\Desktop\מקור\GUI\obj\Debug\GUI.pdb
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\GUI.exe.config
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\GUI.exe
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\GUI.pdb
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\AjaxControlToolkit.dll
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\log4net.dll
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\nunit.framework.dll
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\WPFToolkit.dll
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\itextsharp.dll
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\Bussiness Layer.pdb
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\Bussiness Layer.exe.config
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\Data Access Layer.exe.config
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\log4net.xml
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\nunit.framework.xml
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\WPFToolkit.pdb
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\itextsharp.xml
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\obj\Debug\MainWindow.baml
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\obj\Debug\Tester.baml
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\obj\Debug\Tester.g.cs
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\obj\Debug\Window2.baml
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\obj\Debug\GUI.g.resources
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\obj\Debug\GUI.exe
+C:\Users\orel kakon\Desktop\ISE172_project\GUI\obj\Debug\GUI.pdb
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\GUI.exe.config
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\GUI.exe
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\GUI.pdb
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\AjaxControlToolkit.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\log4net.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\nunit.framework.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\WPFToolkit.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\itextsharp.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\Bussiness Layer.pdb
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\Bussiness Layer.exe.config
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\Data Access Layer.exe.config
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\log4net.xml
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\nunit.framework.xml
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\WPFToolkit.pdb
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\itextsharp.xml
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\obj\Debug\MainWindow.baml
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\obj\Debug\Tester.baml
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\obj\Debug\Tester.g.cs
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\obj\Debug\Window2.g.cs
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\obj\Debug\App.g.cs
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\obj\Debug\Window2.baml
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\obj\Debug\GUI.g.resources
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\obj\Debug\GUI.exe
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\obj\Debug\GUI.pdb
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\GUI\obj\Debug\GUI.csproj.CopyComplete

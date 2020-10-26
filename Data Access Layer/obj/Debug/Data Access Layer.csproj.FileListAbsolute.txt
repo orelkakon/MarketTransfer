@@ -1,0 +1,122 @@
+C:/Users/טליה סעדה/Documents/Visual Studio 2015/Projects/ConsoleApplication1/Data Access Layer/obj/Debug/Data Access Layer.csprojResolveAssemblyReference.cache
+C:/Users/טליה סעדה/Documents/Visual Studio 2015/Projects/ConsoleApplication1/Data Access Layer/bin/Debug/Data Access Layer.exe.config
+C:/Users/טליה סעדה/Documents/Visual Studio 2015/Projects/ConsoleApplication1/Data Access Layer/bin/Debug/Data Access Layer.exe
+C:/Users/טליה סעדה/Documents/Visual Studio 2015/Projects/ConsoleApplication1/Data Access Layer/bin/Debug/Data Access Layer.pdb
+C:/Users/טליה סעדה/Documents/Visual Studio 2015/Projects/ConsoleApplication1/Data Access Layer/bin/Debug/BouncyCastle.Crypto.dll
+C:/Users/טליה סעדה/Documents/Visual Studio 2015/Projects/ConsoleApplication1/Data Access Layer/bin/Debug/Newtonsoft.Json.dll
+C:/Users/טליה סעדה/Documents/Visual Studio 2015/Projects/ConsoleApplication1/Data Access Layer/obj/Debug/Data Access Layer.exe
+C:/Users/טליה סעדה/Documents/Visual Studio 2015/Projects/ConsoleApplication1/Data Access Layer/obj/Debug/Data Access Layer.pdb
+C:/Users/orel kakon/Desktop/ConsoleApplication1/Data Access Layer/bin/Debug/Data Access Layer.exe.config
+C:/Users/orel kakon/Desktop/ConsoleApplication1/Data Access Layer/bin/Debug/Data Access Layer.exe
+C:/Users/orel kakon/Desktop/ConsoleApplication1/Data Access Layer/bin/Debug/Data Access Layer.pdb
+C:/Users/orel kakon/Desktop/ConsoleApplication1/Data Access Layer/bin/Debug/BouncyCastle.Crypto.dll
+C:/Users/orel kakon/Desktop/ConsoleApplication1/Data Access Layer/bin/Debug/Newtonsoft.Json.dll
+C:/Users/orel kakon/Desktop/ConsoleApplication1/Data Access Layer/obj/Debug/Data Access Layer.csprojResolveAssemblyReference.cache
+C:/Users/orel kakon/Desktop/ConsoleApplication1/Data Access Layer/obj/Debug/Data Access Layer.exe
+C:/Users/orel kakon/Desktop/ConsoleApplication1/Data Access Layer/obj/Debug/Data Access Layer.pdb
+C:/Users/Nati/Desktop/ConsoleApplication1/Data Access Layer/bin/Debug/Data Access Layer.exe.config
+C:/Users/Nati/Desktop/ConsoleApplication1/Data Access Layer/bin/Debug/Data Access Layer.exe
+C:/Users/Nati/Desktop/ConsoleApplication1/Data Access Layer/bin/Debug/Data Access Layer.pdb
+C:/Users/Nati/Desktop/ConsoleApplication1/Data Access Layer/bin/Debug/BouncyCastle.Crypto.dll
+C:/Users/Nati/Desktop/ConsoleApplication1/Data Access Layer/bin/Debug/Newtonsoft.Json.dll
+C:/Users/Nati/Desktop/ConsoleApplication1/Data Access Layer/obj/Debug/Data Access Layer.csprojResolveAssemblyReference.cache
+C:/Users/Nati/Desktop/ConsoleApplication1/Data Access Layer/obj/Debug/Data Access Layer.exe
+C:/Users/Nati/Desktop/ConsoleApplication1/Data Access Layer/obj/Debug/Data Access Layer.pdb
+C:/Users/Nati/Desktop/ConsoleApplication1/Data Access Layer/bin/Debug/log4net.dll
+C:/Users/Nati/Desktop/ConsoleApplication1/Data Access Layer/bin/Debug/log4net.xml
+C:/Users/orel kakon/Desktop/16517/Data Access Layer/bin/Debug/Data Access Layer.exe.config
+C:/Users/orel kakon/Desktop/16517/Data Access Layer/bin/Debug/Data Access Layer.exe
+C:/Users/orel kakon/Desktop/16517/Data Access Layer/bin/Debug/Data Access Layer.pdb
+C:/Users/orel kakon/Desktop/16517/Data Access Layer/bin/Debug/BouncyCastle.Crypto.dll
+C:/Users/orel kakon/Desktop/16517/Data Access Layer/bin/Debug/log4net.dll
+C:/Users/orel kakon/Desktop/16517/Data Access Layer/bin/Debug/Newtonsoft.Json.dll
+C:/Users/orel kakon/Desktop/16517/Data Access Layer/bin/Debug/log4net.xml
+C:/Users/orel kakon/Desktop/16517/Data Access Layer/obj/Debug/Data Access Layer.exe
+C:/Users/orel kakon/Desktop/16517/Data Access Layer/obj/Debug/Data Access Layer.pdb
+C:/Users/orel kakon/Desktop/16517/Data Access Layer/bin/Debug/nunit.framework.dll
+C:/Users/orel kakon/Desktop/16517/Data Access Layer/bin/Debug/nunit.framework.xml
+C:/Users/orel kakon/Desktop/16517/Data Access Layer/obj/Debug/Data Access Layer.csprojResolveAssemblyReference.cache
+/Volumes/OR_SAADA/16517/Data Access Layer/obj/Debug/Data Access Layer.csprojResolveAssemblyReference.cache
+/Volumes/OR_SAADA/16517/Data Access Layer/obj/Debug/Data Access Layer.csproj.Data Access Layer.exe.config
+/Volumes/OR_SAADA/16517/Data Access Layer/obj/Debug/Data Access Layer.csproj.CoreCompileInputs.cache
+/Volumes/OR_SAADA/16517/Data Access Layer/obj/Debug/Data Access Layer.exe
+/Volumes/OR_SAADA/16517/Data Access Layer/obj/Debug/Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\ISE172_project\Data Access Layer\bin\Debug\Data Access Layer.exe.config
+C:\Users\orel kakon\Desktop\ISE172_project\Data Access Layer\bin\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\ISE172_project\Data Access Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\ISE172_project\Data Access Layer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\orel kakon\Desktop\ISE172_project\Data Access Layer\bin\Debug\log4net.dll
+C:\Users\orel kakon\Desktop\ISE172_project\Data Access Layer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orel kakon\Desktop\ISE172_project\Data Access Layer\bin\Debug\nunit.framework.dll
+C:\Users\orel kakon\Desktop\ISE172_project\Data Access Layer\bin\Debug\log4net.xml
+C:\Users\orel kakon\Desktop\ISE172_project\Data Access Layer\bin\Debug\nunit.framework.xml
+C:\Users\orel kakon\Desktop\ISE172_project\Data Access Layer\obj\Debug\Data Access Layer.csprojResolveAssemblyReference.cache
+C:\Users\orel kakon\Desktop\ISE172_project\Data Access Layer\obj\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\ISE172_project\Data Access Layer\obj\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\77\Data Access Layer\bin\Debug\Data Access Layer.exe.config
+C:\Users\orel kakon\Desktop\77\Data Access Layer\bin\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\77\Data Access Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\77\Data Access Layer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\orel kakon\Desktop\77\Data Access Layer\bin\Debug\log4net.dll
+C:\Users\orel kakon\Desktop\77\Data Access Layer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orel kakon\Desktop\77\Data Access Layer\bin\Debug\nunit.framework.dll
+C:\Users\orel kakon\Desktop\77\Data Access Layer\bin\Debug\log4net.xml
+C:\Users\orel kakon\Desktop\77\Data Access Layer\bin\Debug\nunit.framework.xml
+C:\Users\orel kakon\Desktop\77\Data Access Layer\obj\Debug\Data Access Layer.csprojResolveAssemblyReference.cache
+C:\Users\orel kakon\Desktop\77\Data Access Layer\obj\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\77\Data Access Layer\obj\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\NEW\Data Access Layer\bin\Debug\Data Access Layer.exe.config
+C:\Users\orel kakon\Desktop\NEW\Data Access Layer\bin\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\NEW\Data Access Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\NEW\Data Access Layer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\orel kakon\Desktop\NEW\Data Access Layer\bin\Debug\log4net.dll
+C:\Users\orel kakon\Desktop\NEW\Data Access Layer\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\orel kakon\Desktop\NEW\Data Access Layer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orel kakon\Desktop\NEW\Data Access Layer\bin\Debug\nunit.framework.dll
+C:\Users\orel kakon\Desktop\NEW\Data Access Layer\bin\Debug\log4net.xml
+C:\Users\orel kakon\Desktop\NEW\Data Access Layer\bin\Debug\nunit.framework.xml
+C:\Users\orel kakon\Desktop\NEW\Data Access Layer\obj\Debug\Data Access Layer.csprojResolveAssemblyReference.cache
+C:\Users\orel kakon\Desktop\NEW\Data Access Layer\obj\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\NEW\Data Access Layer\obj\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\גיבוי\Data Access Layer\bin\Debug\Data Access Layer.exe.config
+C:\Users\orel kakon\Desktop\גיבוי\Data Access Layer\bin\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\גיבוי\Data Access Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\גיבוי\Data Access Layer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\orel kakon\Desktop\גיבוי\Data Access Layer\bin\Debug\log4net.dll
+C:\Users\orel kakon\Desktop\גיבוי\Data Access Layer\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\orel kakon\Desktop\גיבוי\Data Access Layer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orel kakon\Desktop\גיבוי\Data Access Layer\bin\Debug\nunit.framework.dll
+C:\Users\orel kakon\Desktop\גיבוי\Data Access Layer\bin\Debug\log4net.xml
+C:\Users\orel kakon\Desktop\גיבוי\Data Access Layer\bin\Debug\nunit.framework.xml
+C:\Users\orel kakon\Desktop\גיבוי\Data Access Layer\obj\Debug\Data Access Layer.csprojResolveAssemblyReference.cache
+C:\Users\orel kakon\Desktop\גיבוי\Data Access Layer\obj\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\גיבוי\Data Access Layer\obj\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\מקור\Data Access Layer\bin\Debug\Data Access Layer.exe.config
+C:\Users\orel kakon\Desktop\מקור\Data Access Layer\bin\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\מקור\Data Access Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\מקור\Data Access Layer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\orel kakon\Desktop\מקור\Data Access Layer\bin\Debug\log4net.dll
+C:\Users\orel kakon\Desktop\מקור\Data Access Layer\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\orel kakon\Desktop\מקור\Data Access Layer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orel kakon\Desktop\מקור\Data Access Layer\bin\Debug\nunit.framework.dll
+C:\Users\orel kakon\Desktop\מקור\Data Access Layer\bin\Debug\log4net.xml
+C:\Users\orel kakon\Desktop\מקור\Data Access Layer\bin\Debug\nunit.framework.xml
+C:\Users\orel kakon\Desktop\מקור\Data Access Layer\obj\Debug\Data Access Layer.csprojResolveAssemblyReference.cache
+C:\Users\orel kakon\Desktop\מקור\Data Access Layer\obj\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\מקור\Data Access Layer\obj\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\ISE172_project\Data Access Layer\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Data Access Layer\bin\Debug\Data Access Layer.exe.config
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Data Access Layer\bin\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Data Access Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Data Access Layer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Data Access Layer\bin\Debug\log4net.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Data Access Layer\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Data Access Layer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Data Access Layer\bin\Debug\nunit.framework.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Data Access Layer\bin\Debug\log4net.xml
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Data Access Layer\bin\Debug\nunit.framework.xml
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Data Access Layer\obj\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Data Access Layer\obj\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Data Access Layer\obj\Debug\Data Access Layer.csprojAssemblyReference.cache
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Data Access Layer\obj\Debug\Data Access Layer.csproj.CoreCompileInputs.cache
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Data Access Layer\obj\Debug\Data Access Layer.csproj.CopyComplete

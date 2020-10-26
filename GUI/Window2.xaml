@@ -1,0 +1,14 @@
+﻿<Window x:Class="GUI.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d"
+        Title="Window2" Height="383.554" Width="400" Background="CadetBlue">
+    <Grid Margin="0,0,32,43">
+        <Label Content="AMA Trading" HorizontalAlignment="Left" Height="76" Margin="66,41,0,0" VerticalAlignment="Top" Width="284" FontSize="45"/>
+        <Button Content="On" HorizontalAlignment="Left" Height="94" Margin="39,174,0,0" VerticalAlignment="Top" Width="127" FontWeight="Black" FontSize="20" Click="Button_Click"/>
+        <Button Content="Off" HorizontalAlignment="Left" Height="94" Margin="223,174,0,0" VerticalAlignment="Top" Width="127" FontWeight="Black" FontSize="20" Click="Button_Click_1"/>
+    </Grid>
+</Window>

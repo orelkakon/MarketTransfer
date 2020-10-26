@@ -1,0 +1,158 @@
+C:\Users\טליה סעדה\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Bussiness Layer\bin\Debug\Bussiness Layer.exe.config
+C:\Users\טליה סעדה\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Bussiness Layer\bin\Debug\Bussiness Layer.exe
+C:\Users\טליה סעדה\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Bussiness Layer\bin\Debug\Bussiness Layer.pdb
+C:\Users\טליה סעדה\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Bussiness Layer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\טליה סעדה\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Bussiness Layer\bin\Debug\Data Access Layer.exe
+C:\Users\טליה סעדה\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Bussiness Layer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\טליה סעדה\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Bussiness Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\טליה סעדה\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Bussiness Layer\obj\Debug\Bussiness Layer.csprojResolveAssemblyReference.cache
+C:\Users\טליה סעדה\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Bussiness Layer\obj\Debug\Bussiness Layer.exe
+C:\Users\טליה סעדה\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Bussiness Layer\obj\Debug\Bussiness Layer.pdb
+C:\Users\orel kakon\Desktop\ConsoleApplication1\Bussiness Layer\bin\Debug\Bussiness Layer.exe.config
+C:\Users\orel kakon\Desktop\ConsoleApplication1\Bussiness Layer\bin\Debug\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\ConsoleApplication1\Bussiness Layer\bin\Debug\Bussiness Layer.pdb
+C:\Users\orel kakon\Desktop\ConsoleApplication1\Bussiness Layer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\orel kakon\Desktop\ConsoleApplication1\Bussiness Layer\bin\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\ConsoleApplication1\Bussiness Layer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orel kakon\Desktop\ConsoleApplication1\Bussiness Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\ConsoleApplication1\Bussiness Layer\bin\Debug\Data Access Layer.exe.config
+C:\Users\orel kakon\Desktop\ConsoleApplication1\Bussiness Layer\obj\Debug\Bussiness Layer.csprojResolveAssemblyReference.cache
+C:\Users\orel kakon\Desktop\ConsoleApplication1\Bussiness Layer\obj\Debug\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\ConsoleApplication1\Bussiness Layer\obj\Debug\Bussiness Layer.pdb
+C:\Users\Nati\Desktop\ConsoleApplication1\Bussiness Layer\obj\Debug\Bussiness Layer.csprojResolveAssemblyReference.cache
+C:\Users\Nati\Desktop\ConsoleApplication1\Bussiness Layer\obj\Debug\Bussiness Layer.exe
+C:\Users\Nati\Desktop\ConsoleApplication1\Bussiness Layer\obj\Debug\Bussiness Layer.pdb
+C:\Users\Nati\Desktop\ConsoleApplication1\Bussiness Layer\bin\Debug\Bussiness Layer.exe.config
+C:\Users\Nati\Desktop\ConsoleApplication1\Bussiness Layer\bin\Debug\Bussiness Layer.exe
+C:\Users\Nati\Desktop\ConsoleApplication1\Bussiness Layer\bin\Debug\Bussiness Layer.pdb
+C:\Users\Nati\Desktop\ConsoleApplication1\Bussiness Layer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Nati\Desktop\ConsoleApplication1\Bussiness Layer\bin\Debug\Data Access Layer.exe
+C:\Users\Nati\Desktop\ConsoleApplication1\Bussiness Layer\bin\Debug\log4net.dll
+C:\Users\Nati\Desktop\ConsoleApplication1\Bussiness Layer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nati\Desktop\ConsoleApplication1\Bussiness Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\Nati\Desktop\ConsoleApplication1\Bussiness Layer\bin\Debug\Data Access Layer.exe.config
+C:\Users\Nati\Desktop\ConsoleApplication1\Bussiness Layer\bin\Debug\log4net.xml
+C:\Users\Nati\Desktop\ConsoleApplication1\Bussiness Layer\bin\Debug\nunit.framework.dll
+C:\Users\Nati\Desktop\ConsoleApplication1\Bussiness Layer\bin\Debug\nunit.framework.xml
+C:\Users\orel kakon\Desktop\16517\Bussiness Layer\bin\Debug\Bussiness Layer.exe.config
+C:\Users\orel kakon\Desktop\16517\Bussiness Layer\bin\Debug\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\16517\Bussiness Layer\bin\Debug\Bussiness Layer.pdb
+C:\Users\orel kakon\Desktop\16517\Bussiness Layer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\orel kakon\Desktop\16517\Bussiness Layer\bin\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\16517\Bussiness Layer\bin\Debug\log4net.dll
+C:\Users\orel kakon\Desktop\16517\Bussiness Layer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orel kakon\Desktop\16517\Bussiness Layer\bin\Debug\nunit.framework.dll
+C:\Users\orel kakon\Desktop\16517\Bussiness Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\16517\Bussiness Layer\bin\Debug\Data Access Layer.exe.config
+C:\Users\orel kakon\Desktop\16517\Bussiness Layer\bin\Debug\log4net.xml
+C:\Users\orel kakon\Desktop\16517\Bussiness Layer\bin\Debug\nunit.framework.xml
+C:\Users\orel kakon\Desktop\16517\Bussiness Layer\obj\Debug\Bussiness Layer.csprojResolveAssemblyReference.cache
+C:\Users\orel kakon\Desktop\16517\Bussiness Layer\obj\Debug\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\16517\Bussiness Layer\obj\Debug\Bussiness Layer.pdb
+C:\Users\orel kakon\Desktop\ISE172_project\Bussiness Layer\obj\Debug\Bussiness Layer.csprojResolveAssemblyReference.cache
+C:\Users\orel kakon\Desktop\77\Bussiness Layer\obj\Debug\Bussiness Layer.csprojResolveAssemblyReference.cache
+C:\Users\orel kakon\Desktop\77\Bussiness Layer\bin\Debug\Bussiness Layer.exe.config
+C:\Users\orel kakon\Desktop\77\Bussiness Layer\bin\Debug\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\77\Bussiness Layer\bin\Debug\Bussiness Layer.pdb
+C:\Users\orel kakon\Desktop\77\Bussiness Layer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\orel kakon\Desktop\77\Bussiness Layer\bin\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\77\Bussiness Layer\bin\Debug\log4net.dll
+C:\Users\orel kakon\Desktop\77\Bussiness Layer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orel kakon\Desktop\77\Bussiness Layer\bin\Debug\nunit.framework.dll
+C:\Users\orel kakon\Desktop\77\Bussiness Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\77\Bussiness Layer\bin\Debug\Data Access Layer.exe.config
+C:\Users\orel kakon\Desktop\77\Bussiness Layer\bin\Debug\log4net.xml
+C:\Users\orel kakon\Desktop\77\Bussiness Layer\bin\Debug\nunit.framework.xml
+C:\Users\orel kakon\Desktop\77\Bussiness Layer\obj\Debug\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\77\Bussiness Layer\obj\Debug\Bussiness Layer.pdb
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\obj\Debug\Bussiness Layer.csprojResolveAssemblyReference.cache
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Debug\Bussiness Layer.exe.config
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Debug\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Debug\Bussiness Layer.pdb
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Debug\itextsharp.dll
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Debug\log4net.dll
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Debug\nunit.framework.dll
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Debug\Data Access Layer.exe.config
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Debug\itextsharp.xml
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Debug\log4net.xml
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Debug\nunit.framework.xml
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\obj\Debug\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\obj\Debug\Bussiness Layer.pdb
+C:\Users\orel kakon\Desktop\גיבוי\Bussiness Layer\bin\Debug\Bussiness Layer.exe.config
+C:\Users\orel kakon\Desktop\גיבוי\Bussiness Layer\bin\Debug\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\גיבוי\Bussiness Layer\bin\Debug\Bussiness Layer.pdb
+C:\Users\orel kakon\Desktop\גיבוי\Bussiness Layer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\orel kakon\Desktop\גיבוי\Bussiness Layer\bin\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\גיבוי\Bussiness Layer\bin\Debug\itextsharp.dll
+C:\Users\orel kakon\Desktop\גיבוי\Bussiness Layer\bin\Debug\log4net.dll
+C:\Users\orel kakon\Desktop\גיבוי\Bussiness Layer\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\orel kakon\Desktop\גיבוי\Bussiness Layer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orel kakon\Desktop\גיבוי\Bussiness Layer\bin\Debug\nunit.framework.dll
+C:\Users\orel kakon\Desktop\גיבוי\Bussiness Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\גיבוי\Bussiness Layer\bin\Debug\Data Access Layer.exe.config
+C:\Users\orel kakon\Desktop\גיבוי\Bussiness Layer\bin\Debug\itextsharp.xml
+C:\Users\orel kakon\Desktop\גיבוי\Bussiness Layer\bin\Debug\log4net.xml
+C:\Users\orel kakon\Desktop\גיבוי\Bussiness Layer\bin\Debug\nunit.framework.xml
+C:\Users\orel kakon\Desktop\גיבוי\Bussiness Layer\obj\Debug\Bussiness Layer.csprojResolveAssemblyReference.cache
+C:\Users\orel kakon\Desktop\גיבוי\Bussiness Layer\obj\Debug\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\גיבוי\Bussiness Layer\obj\Debug\Bussiness Layer.pdb
+C:\Users\orel kakon\Desktop\מקור\Bussiness Layer\bin\Debug\Bussiness Layer.exe.config
+C:\Users\orel kakon\Desktop\מקור\Bussiness Layer\bin\Debug\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\מקור\Bussiness Layer\bin\Debug\Bussiness Layer.pdb
+C:\Users\orel kakon\Desktop\מקור\Bussiness Layer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\orel kakon\Desktop\מקור\Bussiness Layer\bin\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\מקור\Bussiness Layer\bin\Debug\itextsharp.dll
+C:\Users\orel kakon\Desktop\מקור\Bussiness Layer\bin\Debug\log4net.dll
+C:\Users\orel kakon\Desktop\מקור\Bussiness Layer\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\orel kakon\Desktop\מקור\Bussiness Layer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orel kakon\Desktop\מקור\Bussiness Layer\bin\Debug\nunit.framework.dll
+C:\Users\orel kakon\Desktop\מקור\Bussiness Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\מקור\Bussiness Layer\bin\Debug\Data Access Layer.exe.config
+C:\Users\orel kakon\Desktop\מקור\Bussiness Layer\bin\Debug\itextsharp.xml
+C:\Users\orel kakon\Desktop\מקור\Bussiness Layer\bin\Debug\log4net.xml
+C:\Users\orel kakon\Desktop\מקור\Bussiness Layer\bin\Debug\nunit.framework.xml
+C:\Users\orel kakon\Desktop\מקור\Bussiness Layer\obj\Debug\Bussiness Layer.csprojResolveAssemblyReference.cache
+C:\Users\orel kakon\Desktop\מקור\Bussiness Layer\obj\Debug\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\מקור\Bussiness Layer\obj\Debug\Bussiness Layer.pdb
+C:\Users\orel kakon\Desktop\ISE172_project\Bussiness Layer\bin\Debug\Bussiness Layer.exe.config
+C:\Users\orel kakon\Desktop\ISE172_project\Bussiness Layer\bin\Debug\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\ISE172_project\Bussiness Layer\bin\Debug\Bussiness Layer.pdb
+C:\Users\orel kakon\Desktop\ISE172_project\Bussiness Layer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\orel kakon\Desktop\ISE172_project\Bussiness Layer\bin\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\ISE172_project\Bussiness Layer\bin\Debug\itextsharp.dll
+C:\Users\orel kakon\Desktop\ISE172_project\Bussiness Layer\bin\Debug\log4net.dll
+C:\Users\orel kakon\Desktop\ISE172_project\Bussiness Layer\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\orel kakon\Desktop\ISE172_project\Bussiness Layer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orel kakon\Desktop\ISE172_project\Bussiness Layer\bin\Debug\nunit.framework.dll
+C:\Users\orel kakon\Desktop\ISE172_project\Bussiness Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\ISE172_project\Bussiness Layer\bin\Debug\Data Access Layer.exe.config
+C:\Users\orel kakon\Desktop\ISE172_project\Bussiness Layer\bin\Debug\itextsharp.xml
+C:\Users\orel kakon\Desktop\ISE172_project\Bussiness Layer\bin\Debug\log4net.xml
+C:\Users\orel kakon\Desktop\ISE172_project\Bussiness Layer\bin\Debug\nunit.framework.xml
+C:\Users\orel kakon\Desktop\ISE172_project\Bussiness Layer\obj\Debug\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\ISE172_project\Bussiness Layer\obj\Debug\Bussiness Layer.pdb
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Bussiness Layer\bin\Debug\Bussiness Layer.exe.config
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Bussiness Layer\bin\Debug\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Bussiness Layer\bin\Debug\Bussiness Layer.pdb
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Bussiness Layer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Bussiness Layer\bin\Debug\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Bussiness Layer\bin\Debug\itextsharp.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Bussiness Layer\bin\Debug\log4net.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Bussiness Layer\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Bussiness Layer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Bussiness Layer\bin\Debug\nunit.framework.dll
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Bussiness Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Bussiness Layer\bin\Debug\Data Access Layer.exe.config
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Bussiness Layer\bin\Debug\itextsharp.xml
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Bussiness Layer\bin\Debug\log4net.xml
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Bussiness Layer\bin\Debug\nunit.framework.xml
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Bussiness Layer\obj\Debug\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Bussiness Layer\obj\Debug\Bussiness Layer.pdb
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Bussiness Layer\obj\Debug\Bussiness Layer.csprojAssemblyReference.cache
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Bussiness Layer\obj\Debug\Bussiness Layer.csproj.CoreCompileInputs.cache
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ב\מבוא לתכנה\ISE172_project\Bussiness Layer\obj\Debug\Bussiness Layer.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Release\Bussiness Layer.exe.config
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Release\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Release\Bussiness Layer.pdb
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Release\Data Access Layer.exe
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Release\log4net.dll
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Release\Newtonsoft.Json.dll
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Release\nunit.framework.dll
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Release\Data Access Layer.pdb
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Release\Data Access Layer.exe.config
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Release\log4net.xml
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\bin\Release\nunit.framework.xml
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\obj\Release\Bussiness Layer.csprojResolveAssemblyReference.cache
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\obj\Release\Bussiness Layer.exe
+C:\Users\orel kakon\Desktop\NEW\Bussiness Layer\obj\Release\Bussiness Layer.pdb

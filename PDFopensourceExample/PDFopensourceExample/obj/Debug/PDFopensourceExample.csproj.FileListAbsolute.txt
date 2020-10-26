@@ -1,0 +1,8 @@
+C:\Users\orel kakon\Desktop\NEW\PDFopensourceExample\PDFopensourceExample\obj\Debug\PDFopensourceExample.csprojResolveAssemblyReference.cache
+C:\Users\orel kakon\Desktop\NEW\PDFopensourceExample\PDFopensourceExample\obj\Debug\MainWindow.baml
+C:\Users\orel kakon\Desktop\NEW\PDFopensourceExample\PDFopensourceExample\obj\Debug\MainWindow.g.cs
+C:\Users\orel kakon\Desktop\NEW\PDFopensourceExample\PDFopensourceExample\obj\Debug\App.g.cs
+C:\Users\orel kakon\Desktop\NEW\PDFopensourceExample\PDFopensourceExample\obj\Debug\PDFopensourceExample_MarkupCompile.cache
+C:\Users\orel kakon\Desktop\NEW\PDFopensourceExample\PDFopensourceExample\obj\Debug\PDFopensourceExample.g.resources
+C:\Users\orel kakon\Desktop\NEW\PDFopensourceExample\PDFopensourceExample\obj\Debug\PDFopensourceExample.Properties.Resources.resources
+C:\Users\orel kakon\Desktop\NEW\PDFopensourceExample\PDFopensourceExample\obj\Debug\PDFopensourceExample.csproj.GenerateResource.Cache
